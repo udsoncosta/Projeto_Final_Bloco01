@@ -1,0 +1,14 @@
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\bin\Debug\net7.0\Projeto_Final_Bloco01.exe
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\bin\Debug\net7.0\Projeto_Final_Bloco01.deps.json
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\bin\Debug\net7.0\Projeto_Final_Bloco01.runtimeconfig.json
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\bin\Debug\net7.0\Projeto_Final_Bloco01.dll
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\bin\Debug\net7.0\Projeto_Final_Bloco01.pdb
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\Projeto_Final_Bloco01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\Projeto_Final_Bloco01.AssemblyInfoInputs.cache
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\Projeto_Final_Bloco01.AssemblyInfo.cs
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\Projeto_Final_Bloco01.csproj.CoreCompileInputs.cache
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\Projeto_Final_Bloco01.dll
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\refint\Projeto_Final_Bloco01.dll
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\Projeto_Final_Bloco01.pdb
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\Projeto_Final_Bloco01.genruntimeconfig.cache
+C:\Users\udson\OneDrive\Documentos\ProjetoFinalBloco01\Projeto_Final_Bloco01\obj\Debug\net7.0\ref\Projeto_Final_Bloco01.dll
